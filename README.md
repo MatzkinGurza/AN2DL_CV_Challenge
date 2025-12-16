@@ -3,8 +3,6 @@ Repository destined for Kaggle Challenge on Breast Cancer Multi-Class Classifica
 
 # AN2DL Second Challenge - Bratwurst & Caipirinha Team
 
-![Polimi Logo](polimi.png) ![AI Lab Logo](airlab.jpeg)
-
 This repository contains the code, data preprocessing pipelines, models, and evaluation scripts for the **AN2DL Second Challenge**, a multiclass classification task of breast tissue images into four molecular subtypes: Luminal A, Luminal B, HER2+, and Triple Negative.
 
 ---
